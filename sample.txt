@@ -1,0 +1,5 @@
+Huffman coding is a lossless data compression algorithm developed by David A. Huffman.
+The algorithm assigns variable-length prefix codes to input characters based on their frequencies.
+Frequent characters receive shorter bit sequences, while rare characters receive longer bit sequences.
+This Dynamic Huffman File Compression Tool uses a frequency array, a min-heap priority queue, and a binary prefix tree in C.
+abracadabra abracadabra abracadabra!
